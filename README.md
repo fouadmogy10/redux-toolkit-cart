@@ -1,5 +1,5 @@
 # project Live demo
-URL : https://cart1-react-redux.netlify.app/
+URL : https://reduxtoolkit-cart1.netlify.app/
 
 # react-router-dom
 # axios
